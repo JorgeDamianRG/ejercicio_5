@@ -1,0 +1,11 @@
+Jorge Damian Ramos Garcia
+4/12/2025
+Comandos
+ls
+Muestra los archivos y carpetas que hay en un directorio.
+
+cd
+Sirve para cambiar de directorio.
+
+mkdir
+Crea una nueva carpeta.
